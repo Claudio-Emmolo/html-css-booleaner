@@ -1,0 +1,16 @@
+header{
+    background-color: #4ea0ff;
+}
+
+.banner{
+    height: 150px;
+    background-image: url(../img/pattern.png);
+    position: relative;
+}
+
+#logo{
+    width: 200px;
+    height: auto;
+    position: absolute;
+    bottom: 15px;
+}
