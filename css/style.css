@@ -47,3 +47,17 @@ header{
 .photo-des{
     font-size: 0.8rem;
 }
+
+/* table */
+.color-th{
+    color: white;
+    background-color: #20a9e5
+}
+
+.color-td{
+    background-color: #b1e5f2
+}
+
+#td-special{
+    background-color: #ffffff;
+}
